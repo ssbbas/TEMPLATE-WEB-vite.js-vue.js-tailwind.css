@@ -1,4 +1,4 @@
-# TEMPLATE-WEB-vite.js-vue.js-tailwind.css
+# TEMPLATE-WEB-vue.js-tailwind.css
 
 ---
 
